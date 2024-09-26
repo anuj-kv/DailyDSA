@@ -27,12 +27,7 @@ public class SecondSmallestElementInArray {
         }
         System.out.println(smallest);
         for(int i=0; i<arr.length; i++){
-            if(){
 
-            }else if
-            (arr[i]<ssmallest && arr[i]!=smallest){
-                ssmallest = arr[i];
-            }else
         }
         return  ssmallest;
     }
